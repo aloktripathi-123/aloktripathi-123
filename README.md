@@ -2,8 +2,8 @@
 
 ## A passionate student in computer science
 
-- 🌱 I’m currently learning Artificial intteligence 
-- 💻 Ask me about C++, Python
+- 🌱 I’m currently learning Artificial intelligence
+- 💻 Ask me about C++, Python,C
 - 📫 How to reach me:ramtripathi179@gmail.com
 
 ## Connect with me:
